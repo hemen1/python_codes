@@ -1,0 +1,4 @@
+room1 , 0
+room2  ,0
+room3 ,0
+room4 ,1

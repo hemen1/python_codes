@@ -1,0 +1,21 @@
+course1, 0 , 0 , 1 , 2 , 0
+course2, 0 , 1 , 2 , 2 , 0
+course3, 1 , 1 , 1 , 2 , 0
+course4, 2 , 2 , 1 , 3 , 0
+course5, 3 , 3 , 1 , 2 , 0
+course6, 4 , 4 , 1 , 3 , 0
+course7, 5 , 5 , 1 , 2 , 0
+course8, 6 , 6 , 1 , 3 , 0
+course9, 7 , 7 , 1 , 2 , 0
+course10, 7 , 7 , 2 , 2 , 0
+course11, 8 , 8 , 1 , 1 , 1
+course12, 9 , 9 , 1 , 1 , 1
+course13, 10 , 5 , 1 , 1 , 1
+course14, 11 , 6 , 1 , 2 , 0
+course15, 12 , 8 , 1 , 2 , 0
+course16, 13 , 10 , 1 , 3 , 0
+course17, 14 , 7 , 1 , 1 , 1
+course18, 15 , 5 , 1 , 3 , 0
+course19, 16 , 9 , 1 , 2 , 0
+course20, 17 , 1, 1 , 1 , 1
+
